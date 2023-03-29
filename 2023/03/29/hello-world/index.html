@@ -1,9 +1,17 @@
+<!--
+ * @Author: YluHuu 495216149@qq,com
+ * @Date: 2023-03-29 18:36:20
+ * @LastEditors: YluHuu 495216149@qq,com
+ * @LastEditTime: 2023-03-29 19:49:11
+ * @FilePath: \undefinedd:\Blog\themes\hexo-theme-particlex\layout\layout.ejs
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 
 <!DOCTYPE html>
 <html lang="zh-CN">
     <head>
         <meta charset="UTF-8" />
-        <title>Hello World | Yluhhh</title>
+        <title>Hello World | Yluhhhの窝</title>
         <meta name="author" content="Yluhhh" />
         <meta name="description" content="希望就在山那边" />
         <meta name="keywords" content="" />
@@ -24,6 +32,11 @@
 />
 <script src="/js/lib/highlight.js"></script>
 
+
+<script src="https://cdn.staticfile.org/KaTeX/0.16.4/katex.min.js"></script>
+<script src="https://cdn.staticfile.org/KaTeX/0.16.4/contrib/auto-render.min.js"></script>
+<link rel="stylesheet" href="https://cdn.staticfile.org/KaTeX/0.16.4/katex.min.css" />
+<script src="/js/lib/math.js"></script>
 
 
 <script src="/js/lib/preview.js"></script>
@@ -55,7 +68,7 @@
                 <nav id="menu" ref="menu">
     <div class="desktop-menu">
         <a class="title" href="/">
-            <span>YLUHHH</span>
+            <span>YLUHHHの窝</span>
         </a>
         
         <a href="/">
@@ -88,7 +101,7 @@
         <div class="curtain" v-show="showMenu" @click="showMenu = !showMenu"></div>
         <div class="title" @click="showMenu = !showMenu">
             <i class="fa-solid fa-bars fa-fw"></i>
-            <span>&emsp;YLUHHH</span>
+            <span>&emsp;YLUHHHの窝</span>
         </div>
         <transition name="slide">
         <div class="items" v-show="showMenu">
@@ -187,7 +200,7 @@
     <div id="footer-wrap">
         <div>
             &copy;
-            2022 - 2023 Yluhhh
+            2022 - 2023 Yluhhhの窝
             <span id="footer-icon">
                 <i class="fa-solid fa-font-awesome fa-fw"></i>
             </span>
