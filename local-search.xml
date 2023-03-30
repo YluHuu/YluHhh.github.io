@@ -4,13 +4,25 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2023/03/29/hello-world/"/>
-    <url>/2023/03/29/hello-world/</url>
+    <title>庆祝博客搭建完成</title>
+    <link href="/2023/03/30/%E5%BA%86%E7%A5%9D%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%AE%8C%E6%88%90/"/>
+    <url>/2023/03/30/%E5%BA%86%E7%A5%9D%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%AE%8C%E6%88%90/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="谨以该条博客来庆祝博客搭建🎉🎉🎉"><a href="#谨以该条博客来庆祝博客搭建🎉🎉🎉" class="headerlink" title="谨以该条博客来庆祝博客搭建🎉🎉🎉"></a>谨以该条博客来庆祝博客搭建🎉🎉🎉</h1><h2 id="搭建一个博客需要什么❓"><a href="#搭建一个博客需要什么❓" class="headerlink" title="搭建一个博客需要什么❓"></a>搭建一个博客需要什么❓</h2><p>需要的是<strong>耐心</strong>！<strong>毅力</strong>！AND很好的选择（在最初的主题选择中选择了文档比较少的，搭建起来很费劲，浪费一晚上😫）。</p><h2 id="搭建一个博客需要什么技术❓"><a href="#搭建一个博客需要什么技术❓" class="headerlink" title="搭建一个博客需要什么技术❓"></a>搭建一个博客需要什么技术❓</h2><p>需要非常好的编程技术？需要很好的英语阅读能力？</p><p>不！一概都不需要。对此你只需要一个可以联网的电脑即可。</p><h2 id="搭建博客需要的网站和工具"><a href="#搭建博客需要的网站和工具" class="headerlink" title="搭建博客需要的网站和工具"></a>搭建博客需要的网站和工具</h2><h3 id="1-GitHub-Pages"><a href="#1-GitHub-Pages" class="headerlink" title="1. GitHub Pages"></a>1. GitHub Pages</h3><p>GitHub Pages 是一个免费的静态网站托管服务，它可以让你将你的博客托管在 GitHub 上。你可以使用 GitHub Pages 创建一个个人博客或一个网站，并且它非常易于设置和管理。在 GitHub Pages 上托管博客还有一个好处就是可以让你的博客与其他开发者共享和讨论。<strong>同理，你需要先有一个GitHub账号。</strong></p><h3 id="2-Hexo"><a href="#2-Hexo" class="headerlink" title="2. Hexo"></a>2. Hexo</h3><p>Hexo是一个基于Node.js的静态博客框架。它使用Markdown格式的文件来生成静态网页，并且支持使用多种主题和插件来定制博客的外观和功能。Hexo是一个非常优秀的静态博客框架，适合个人博客和小型网站的建设。它使用简单、效率高、定制性强，是搭建个人博客的不错选择。</p><h3 id="3-Node-js"><a href="#3-Node-js" class="headerlink" title="3. Node.js"></a>3. Node.js</h3><p>通过第二条可知这是需要配置Hexo的。</p><h3 id="4-Git"><a href="#4-Git" class="headerlink" title="4. Git"></a>4. Git</h3><p>Git是一种分布式版本控制系统，最初由Linus Torvalds为管理Linux内核开发而创建。Git是一种非常优秀的版本控制系统，广泛应用于软件开发和代码管理中。它具有分布式、高效、安全等优点，可以方便地进行团队协作和管理，是开发者不可或缺的工具之一。</p><h2 id="搭建博客时的参考（当然也可以作为教程）😜"><a href="#搭建博客时的参考（当然也可以作为教程）😜" class="headerlink" title="搭建博客时的参考（当然也可以作为教程）😜"></a>搭建博客时的参考（当然也可以作为教程）😜</h2><p>知乎 [全套流程](<a href="https://zhuanlan.zhihu.com/p/102592286">从零开始搭建个人博客（超详细） - 知乎 (zhihu.com)</a>)</p><p>主题文档 <a href="https://hexo.fluid-dev.com/docs/guide/#%E5%85%B3%E4%BA%8E%E6%8C%87%E5%8D%97">flude</a></p><p>主题GitHub <a href="https://github.com/fluid-dev/hexo-theme-fluid">Github</a></p><h1 id="任何不懂可以在关于页与我取得联系，祝顺利🎊🎊🎊🎊"><a href="#任何不懂可以在关于页与我取得联系，祝顺利🎊🎊🎊🎊" class="headerlink" title="任何不懂可以在关于页与我取得联系，祝顺利🎊🎊🎊🎊"></a>任何不懂可以在关于页与我取得联系，祝顺利🎊🎊🎊🎊</h1>]]></content>
     
     
+    <categories>
+      
+      <category>开心</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>庆祝</tag>
+      
+    </tags>
     
   </entry>
   
